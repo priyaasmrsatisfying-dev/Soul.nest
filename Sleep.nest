@@ -1,0 +1,7 @@
+$ sleep 3 && curl http://localhost:8001/api/
+Observation: {"message":"SoulNest API - Your safe emotional space 🤍"}
+[stderr]   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100    59  100    59    0     0  27856      0 --:--:-- --:--:-- --:--:-- 29500
+Exit code: 0

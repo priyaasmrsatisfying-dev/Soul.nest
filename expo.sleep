@@ -1,0 +1,4 @@
+$ sudo supervisorctl restart expo && sleep 15
+Observation: expo: stopped
+expo: started
+Exit code: 0

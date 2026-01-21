@@ -1,0 +1,17 @@
+ cd /app/frontend && yarn add expo-linear-gradient
+Observation: yarn add v1.22.22
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+success Saved 1 new dependency.
+info Direct dependencies
+└─ expo-linear-gradient@15.0.8
+info All dependencies
+└─ expo-linear-gradient@15.0.8
+Done in 6.09s.
+[stderr] warning " > @shopify/flash-list@2.2.0" has unmet peer dependency "@babel/runtime@*".
+warning " > react-native@0.81.5" has incorrect peer dependency "react@^19.1.0".
+warning " > react-native-dotenv@3.4.11" has unmet peer dependency "@babel/runtime@^7.20.6".
+Exit code: 0

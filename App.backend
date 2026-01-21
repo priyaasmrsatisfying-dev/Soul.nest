@@ -1,0 +1,4 @@
+file_editor view /app/backend/.env
+Observation: /app/backend/.env:
+1|MONGO_URL="mongodb://localhost:27017"
+2|DB_NAME="test_database"
